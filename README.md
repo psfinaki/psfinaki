@@ -1,6 +1,6 @@
 ### Hi there!
 
-- I'm work as Head of Engineering @ [Cabinet of Wonders](https://www.cabinetofwonders.net/)
+- I'm working as Head of Engineering @ [Cabinet of Wonders](https://www.cabinetofwonders.net/)
 - I'm good at .NET yet open to whatever tech these days
 - Find me on [X](https://x.com/psfinaki), [Bluesky](https://bsky.app/profile/psfinaki.bsky.social), [StackOverflow](https://stackoverflow.com/users/3232646/psfinaki) or [LinkedIn](https://www.linkedin.com/in/petrsemkin/)
 
